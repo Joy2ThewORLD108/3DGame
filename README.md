@@ -36,3 +36,8 @@ SCREENSHOTS of GAME:
 - The first game is a maze. You go through it until you reach the giant door. The second game is jumping on each platforms until you reach the top of the sphere. Once you are at the top of the sphere, you either jump left or right on the bridge. The third game is you rock climbing up to get to the finish line. Depending if you choose the right door, you should be able to make it to the top.
 
 - For the player change, I Increase the players speed and increase the players jump ability. I completed these changes to improve the reaction time when jumping from one place to another. I found that the old setting reaction was too slow.
+
+
+HOMEWORK3:
+
+<img width="1564" height="1057" alt="image" src="https://github.com/user-attachments/assets/a45c98de-7900-4cb9-a9cb-6126d9eecc10" />
