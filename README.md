@@ -20,9 +20,6 @@ https://polyhaven.com/a/large_castle_door - doors
 
 https://polyhaven.com/a/modular_fire_escape - bridge
 
-- The first game is a maze. You go through it until you reach the giant door. The second game is jumping on each platforms until you reach the top of the sphere. Once you are at the top of the sphere, you either jump left or right on the bridge. The third game is you rock climbing up to get to the finish line. Depending if you choose the right door, you should be able to make it to the top.
-
-
 SCREENSHOTS of GAME:
 <img width="2252" height="1043" alt="image" src="https://github.com/user-attachments/assets/b5c6fcf9-7af3-4ce8-9fc6-e4a47ef680ce" />
 
@@ -35,3 +32,7 @@ SCREENSHOTS of GAME:
 <img width="2237" height="1036" alt="image" src="https://github.com/user-attachments/assets/25b8b92a-d6a4-446e-a7d7-9087bd0f7f24" />
 
 <img width="2244" height="1044" alt="image" src="https://github.com/user-attachments/assets/72f8703e-e6b9-4164-a3f7-51edd3539fbb" />
+
+- The first game is a maze. You go through it until you reach the giant door. The second game is jumping on each platforms until you reach the top of the sphere. Once you are at the top of the sphere, you either jump left or right on the bridge. The third game is you rock climbing up to get to the finish line. Depending if you choose the right door, you should be able to make it to the top.
+
+- For the player change, I Increase the players speed and increase the players jump ability. I completed these changes to improve the reaction time when jumping from one place to another. I found that the old setting reaction was too slow.
