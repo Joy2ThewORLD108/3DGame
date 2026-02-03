@@ -24,3 +24,4 @@ SCREENSHOTS of GAME:
 
 <img width="2237" height="1036" alt="image" src="https://github.com/user-attachments/assets/25b8b92a-d6a4-446e-a7d7-9087bd0f7f24" />
 
+<img width="2244" height="1044" alt="image" src="https://github.com/user-attachments/assets/72f8703e-e6b9-4164-a3f7-51edd3539fbb" />
