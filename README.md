@@ -20,7 +20,7 @@ https://polyhaven.com/a/large_castle_door - doors
 
 https://polyhaven.com/a/modular_fire_escape - bridge
 
-  The first game is a maze. You go through it until you reach the giant door. The second game is jumping on each platforms until you reach the top of the sphere. Once you are at the top of the sphere, you either jump left or right on the bridge. The third game is you rock climbing up to get to the finish line. Depending if you choose the right door, you should be able to make it to the top.
+- The first game is a maze. You go through it until you reach the giant door. The second game is jumping on each platforms until you reach the top of the sphere. Once you are at the top of the sphere, you either jump left or right on the bridge. The third game is you rock climbing up to get to the finish line. Depending if you choose the right door, you should be able to make it to the top.
 
 
 SCREENSHOTS of GAME:
